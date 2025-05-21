@@ -1,0 +1,10 @@
+/node_modules
+/.vscode
+./dist
+/.idea
+/.DS_Store
+/.git
+/.history
+.env
+*.env
+.env.*
